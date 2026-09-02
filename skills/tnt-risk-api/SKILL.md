@@ -3,7 +3,7 @@ name: tnt-risk-api
 description: Solana token risk scoring for AI trading agents — insider wallet cluster detection, mint/freeze authority checks, honeypot risk, and LP-lock status via a single API call before a trade. Use when an agent needs to evaluate whether a Solana token is safe to buy, or is deciding whether to execute a swap on a token it hasn't seen before.
 ---
 
-# TNT Risk API
+# RiskDataApi
 
 Pre-trade risk assessment for Solana tokens, built for AI trading agents that need to decide whether a token is safe to buy before they buy it.
 
